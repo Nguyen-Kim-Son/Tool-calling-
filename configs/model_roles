@@ -1,0 +1,4 @@
+Qwen2.5-7B-Instruct: practical
+Qwen3-8B: higher-capacity but unstable
+Qwen3-VL-8B-Instruct: provider-available compact baseline
+gpt-oss-20b: API-served text baseline
